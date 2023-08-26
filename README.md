@@ -9,7 +9,7 @@ I will include more detail instructions of how to run when I get the time. Until
 
 To gather the stats:
 
-**run the spiders, in terminal:**
+**run the spiders, in terminal:** "check and make sure this is correct file name, Im in a rush right now. For those that know, just run the scrapy spiders. 
 
 ```
 
@@ -27,6 +27,6 @@ python airyardsclean.py
 
 I started this in July 2023, figured in prep but haven't quite finished it all. 
 
-**Note**: as a result I seem to beleive and remember the datamerge.py file not working just yet!!!!!!!
+**Note**: as a result I seem to remember the datamerge.py file not working just yet!!!!!!!
 
 This data/repo will be built upon as I later add my analysis I did on here. However, this data is yours too. Enjoy fruits of my labor. 
